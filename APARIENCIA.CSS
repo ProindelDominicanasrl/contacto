@@ -43,7 +43,6 @@ footer  {
 background-color: black;color: aliceblue;padding: AUTO;margin: auto;
 }
 
-* {
-    margin: auto;padding: auto;
+.as  {
+    text-align:right;
 }
-
